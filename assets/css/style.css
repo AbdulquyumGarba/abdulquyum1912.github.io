@@ -7,15 +7,15 @@
     --accent-color: #1E4D2B;    /* Dark Spruce */
 
     /* --- Shared Variables (These usually don't need to change) --- */
-    --light-bg-color: #F8F9FA;
+    --light-bg-color: #F2F0EB;
     --white-color: #ffffff;
     --dark-text-color: #343A40;
     --light-text-color: #6c757d;
     --card-bg-color: #ffffff;
     
     /* Fonts */
-    --font-heading: 'Playfair Display', serif;
-    --font-body: 'Lato', sans-serif;
+    --font-heading: 'Playfair Display', Abadi;
+    --font-body: 'Lato', Abadi;
 }
 
 /* --- 2. Base & Reset Styles --- */
